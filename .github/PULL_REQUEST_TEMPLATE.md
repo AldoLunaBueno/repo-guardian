@@ -2,7 +2,7 @@
 
 ## Descripción
 
-<!-- Agrega las plantillas necesarias para los Pull Requests y Reportes de Bugs. -->
+<!-- Breve resumen de qué se implementa y por qué. Referencia directa a uno o más issues. -->
 
 Closes #RX-XX
 
