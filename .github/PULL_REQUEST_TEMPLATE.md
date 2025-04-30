@@ -4,7 +4,7 @@
 
 <!-- Agrega las plantillas necesarias para los Pull Requests y Reportes de Bugs. -->
 
-Closes #RX-XX
+Closes #XX
 
 ## Evidencia CLI/TUI
 
