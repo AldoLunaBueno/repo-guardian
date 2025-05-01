@@ -14,6 +14,14 @@ Este proyecto implementa escaneo de objetos, validación de DAG, detección de c
 
 ---
 
+## Diagrama contextual
+
+![](https://uml.planttext.com/plantuml/svg/NP71JiCm38RlbVeErauWKHw00zhKJMFIX13I90vSlDJR326fOXVsEZmBBuRJbOdr5ENt5__vxQae9kq-V5aegoTufZPMomvJmnZAeYpGQKom4PCuPY6HKmnxOoSP5hOwHrYoJW0bdnVCVkZr6gxcioLyekS6xSdrYJux_NjYBHwwBSoSSWpIS_LgPEm9XM2USAUKUcJGBhZPqmheQ4H0ytya_Ohf_UK6IDt9VyrRoQ66V51Lz-S_mHtKQ_Czt_iYg-aBSHW8uS2IqwCVKRcjOHj1Q34XOFZvzYmiO3CeYterDbgyaUiKX_4uoqqowlcNsU1Z6vF1UPu8j_k4xI5li2oc59f-cRy0)
+
+[Enlace al editor](https://www.planttext.com?text=NP71JiCm38RlbVeErauWKHw00zhKJMFIX13I90vSlDJR326fOXVsEZmBBuRJbOdr5ENt5__vxQae9kq-V5aegoTufZPMomvJmnZAeYpGQKom4PCuPY6HKmnxOoSP5hOwHrYoJW0bdnVCVkZr6gxcioLyekS6xSdrYJux_NjYBHwwBSoSSWpIS_LgPEm9XM2USAUKUcJGBhZPqmheQ4H0ytya_Ohf_UK6IDt9VyrRoQ66V51Lz-S_mHtKQ_Czt_iYg-aBSHW8uS2IqwCVKRcjOHj1Q34XOFZvzYmiO3CeYterDbgyaUiKX_4uoqqowlcNsU1Z6vF1UPu8j_k4xI5li2oc59f-cRy0)
+
+---
+
 ## Comandos principales
 
 | Comando                         | Descripción                                       |
