@@ -1,4 +1,4 @@
-language: es
+# language: es
 
 Característica: Detección de blobs corruptos en packfiles
 
